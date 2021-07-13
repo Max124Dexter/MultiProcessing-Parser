@@ -1,0 +1,8 @@
+requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.binance.com <| 
+root - INFO - Tue Jul 13 17:21:04 2021 Successful connecting to : https://www.binance.com/ru 
+Http Status code is: 200 <| 
+root - INFO - Tue Jul 13 17:21:04 2021 Successful scrapping all links from ROOT url: https://www.binance.com/ru 
+ Total time of scrapping links from base links is : 0.048868417739868164 <| 
+root - INFO - Tue Jul 13 17:21:09 2021 Succesful scrapping all sublinks <| 
+root - INFO - Tue Jul 13 17:21:09 2021 Total time of scrapping all sublinks: 5.0073137283325195 <| 
+root - INFO - Tue Jul 13 17:21:09 2021 All parsing time took : 5.308092355728149 seconds <| 
